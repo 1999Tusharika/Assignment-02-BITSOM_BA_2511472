@@ -17,5 +17,7 @@ Part6-Capstone: An integrated project applying the concepts learned across the d
 
 Datasets: Supporting datasets used throughout the projects and practical exercises.
 
-Objective
+
+OBJECTIVE
+
 The goal of this repository is to demonstrate practical understanding of databases, data engineering concepts, modern data architectures, and AI-ready data systems, progressing from traditional relational databases to advanced technologies such as Vector Databases and Data Lakes. From structured data to AI-ready data- exploring the evolving world of modern data systems.
